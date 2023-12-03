@@ -19,7 +19,7 @@ export const data = [
 
   {
     question:
-      " Football Player Quiz: Who won the Man of the Match award in the 2014 World Cup final?",
+      "Who won the Man of the Match award in the 2014 World Cup final?",
     option1: "Mario Goetze",
     option2: "Sergio Aguero",
     option3: "Lionel Messi",
